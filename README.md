@@ -55,7 +55,7 @@ Python for scoring, segmentation, and visualization.
 ![Countries](Screenshots/top10_countries.png)
 
 ## How to Run
-1. Clone the repo: `git clone [https://github.com/Itzmemanish01/rfm-customer-segmentation]`
+1. Clone the repo: `git clone https://github.com/Itzmemanish01/rfm-customer-segmentation`
 2. Open `notebooks/rfm_analysis.ipynb` in Jupyter
 3. Run all cells
 4. SQL queries available in `sql/rfm_queries.sql`

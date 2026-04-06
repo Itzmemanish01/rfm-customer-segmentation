@@ -63,6 +63,9 @@ Python for scoring, segmentation, and visualization.
 ## Dataset
 Online Retail II Dataset — UCI Machine Learning Repository  
 Available on Kaggle: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+Note: Full dataset exceeds GitHub's 25MB limit. 
+A 10,000 row sample is included. 
+Full dataset available at the Kaggle link above.
 
 ## Author
 Manish Dangi  

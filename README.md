@@ -44,15 +44,15 @@ Python for scoring, segmentation, and visualization.
 
 ## Dashboard Screenshots
 ### Customer Segment Distribution
-![Segment Distribution](screenshots/segment_distribution.png)
+![Segment Distribution](Screenshots/segment_distribution.png)
 ### Revenue by Segment
-![Revenue](screenshots/revenue_by_segment.png)
+![Revenue](Screenshots/revenue_by_segment.png)
 ### RFM Heatmap
-![Heatmap](screenshots/rfm_heatmap.png)
+![Heatmap](Screenshots/rfm_heatmap.png)
 ### Frequency vs Monetary
-![Scatter](screenshots/frequency_vs_monetary.png)
+![Scatter](Screenshots/frequency_vs_monetary.png)
 ### Top 10 Countries
-![Countries](screenshots/top10_countries.png)
+![Countries](Screenshots/top10_countries.png)
 
 ## How to Run
 1. Clone the repo: `git clone [https://github.com/Itzmemanish01/rfm-customer-segmentation]`
